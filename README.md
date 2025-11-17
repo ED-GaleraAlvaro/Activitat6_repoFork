@@ -27,8 +27,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 ### ------------------- FI INSTRUCCIONS -------------------------------------------
 
 
-#### PROFESSOR:   Raúl
-"Vos he preguntat sobre el vostre propòsit per a l'any 2025"
+#### PROFESSOR:   Álex
+
 
 
 ## A PARTIR D'ACÍ HAS DE DESCRIURE, ON ET CORRESPON, ELS CANVIS QUE HAS FET:
