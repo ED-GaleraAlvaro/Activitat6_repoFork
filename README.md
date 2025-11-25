@@ -65,7 +65,8 @@ El mètode imprimirà el teu nom i una felicitació i desig per a l'Any Nou.
 
 
 #### AlumneFila2 PC4:
-
+Alvaro Galera Cortell
+He programado mi método en el archivo principal.java, mostrando un mensaje y felicitación de Año Nuevo.
 
 #### AlumneFila2 PC5:
 
