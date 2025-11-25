@@ -134,7 +134,8 @@ public class principal {
 		}
 
 		private static void AlumneFila2PC4() {
-
+		    System.out.println("Álvaro Galera — Feliz Año Nuevo! Espero petarlo a base de constancia este 2025.");
+		    System.out.println();
 		}
 
 		private static void AlumneFila2PC5() {
